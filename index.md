@@ -8,6 +8,6 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Synexis Solutions
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Synexis Solutions pioneers innovation at the intersection of Machine Learning, Robotics, Human-Computer Interaction (HCI), and Web Design. We empower ideas into reality through intelligent systems, seamless interfaces, and aesthetic digital experiences.
