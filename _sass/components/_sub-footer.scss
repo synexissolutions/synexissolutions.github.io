@@ -22,10 +22,10 @@
   .copyright {
     margin-top: 10px;
     font-size: 14px;
-    color: $sub-footer-text-color; // ✅ Ensures it's white
+    color: $sub-footer-text-color; 
     a {
       font-weight: bold;
-      color: $sub-footer-text-color; // ✅ Ensures white for the link too
+      color: $sub-footer-text-color; 
       text-decoration: underline;
 
       &:hover {
