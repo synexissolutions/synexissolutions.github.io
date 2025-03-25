@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: Synexis Solutions
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Synexis Solutions pioneers innovation at the intersection of Machine Learning, Robotics, Human-Computer Interaction (HCI), and Web Design. We empower ideas into reality through intelligent systems, seamless interfaces, and aesthetic digital experiences.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
