@@ -26,11 +26,11 @@ defaults:
       type: "services"
     values:
       layout: "service"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
+  # - scope:
+  #     path: ""
+  #     type: "team"
+  #   values:
+  #     layout: "team"
 
 sass:
   sass_dir: _sass
